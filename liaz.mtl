@@ -1,0 +1,12 @@
+# Blender 4.5.0 Alpha MTL File: 'None'
+# www.blender.org
+
+newmtl liaz-529271.m.onetex
+Ns 11.111113
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/SteamLibrary/steamapps/common/TS2012/UserData/editing/liaz_5292_71/body/LIAZ-5292.71.jpg
