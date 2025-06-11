@@ -1,0 +1,12 @@
+# Blender 5.0.0 Alpha MTL File: 'None'
+# www.blender.org
+
+newmtl morda0345.m.onetex
+Ns 32.000008
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/bob/Desktop/morda0410.jpg
